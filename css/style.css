@@ -11,6 +11,7 @@
 header{
     width: 100%;
     background-color: white;
+    position: relative;
 }
 .centro{
     margin-left: 50px;
@@ -18,6 +19,8 @@ header{
 }
 #scrittalogo{
     display: inline-block;
+    position: absolute;
+    top: 10px;
     
 }
 body{
@@ -58,7 +61,7 @@ main{
 #riga{
     color: #F5F8F9;
     border-color: #F5F8F9;
-    height: 1px;
+    height: 5px;
     border: 0;
 }
 .containerdue{
@@ -82,6 +85,7 @@ main{
 .task{
     padding-top: 20px;
     background-color: white;
+    padding-left: 50px;
 }
 p{
     padding: 10px 0px 10px 0px;
