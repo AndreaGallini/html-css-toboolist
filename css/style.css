@@ -10,9 +10,123 @@
 }
 header{
     width: 100%;
-    background-color: red;
+    background-color: white;
+}
+.centro{
+    margin-left: 50px;
+    padding-top: 10px;
 }
 #scrittalogo{
     display: inline-block;
     
+}
+body{
+    background-color: #F5F8F9;
+}
+main{
+    width: 100%;
+}
+
+.containeruno{
+    width: 70%;
+    height: 50px;
+    background-color: white;
+    margin: 50px auto;
+    margin-bottom: 0;
+}
+#bottoneuno{
+    background-color: #46ADF1;
+    width: 100px;
+    height: 30px;
+    font-size: 15px;
+    font-weight: 500;
+    color: white;
+    border: 1px;
+    border-radius: 5px;
+}
+#bottonedue{
+    background-color: white;
+    width: 100px;
+    height: 30px;
+    font-size: 15px;
+    font-weight: 500;
+    color: #a3a7ad;
+    border-width: 1px;
+    border-color: #a3a7ad;
+    border-radius: 5px;
+}
+#riga{
+    color: #F5F8F9;
+    border-color: #F5F8F9;
+    height: 1px;
+    border: 0;
+}
+.containerdue{
+    width: 70%;
+    height: 50px;
+    background-color: white;
+    margin: auto;
+    margin-bottom: 0;
+}
+.freccia{
+    font-size: 15px;
+}
+.scrittablu{
+    background-color: #46ADF1;
+    margin-left: 10px;
+    border-radius: 7px;
+    color: white;
+    padding: 5px;
+    font-size: 9px;
+}
+.task{
+    padding-top: 20px;
+    background-color: white;
+}
+p{
+    padding: 10px 0px 10px 0px;
+    background-color: white;
+}
+.scrittaviola{
+    background-color: #9C72E4;
+    margin-left: 10px;
+    border-radius: 7px;
+    color: white;
+    padding: 5px;
+    font-size: 9px;
+}
+.scrittaverde{
+    background-color:#63C0A9;
+    margin-left: 10px;
+    border-radius: 7px;
+    color: white;
+    padding: 5px;
+    font-size: 9px;
+}
+.distanzaicona{
+    padding-right: 3px;
+}
+.scrittaarancio{
+    background-color:#F29E33;
+    margin-left: 10px;
+    border-radius: 7px;
+    color: white;
+    padding: 5px;
+    font-size: 9px;
+}
+.scrittarosa{
+    background-color:#D763A1;
+    margin-left: 10px;
+    border-radius: 7px;
+    color: white;
+    padding: 5px;
+    font-size: 9px;
+}
+.scrittaverdechiaro{
+    background-color:#B3CB2E;
+    margin-left: 10px;
+    border-radius: 7px;
+    color: white;
+    padding: 5px;
+    font-size: 9px;
 }
